@@ -39,5 +39,5 @@ Reviewer: AI, TALLIP, ACL Rolling Review, AAAI
 
 # Miscellaneous
 My research collaborator:
-- Prof. [Bin Luo](https://software.nju.edu.cn//luobin/index.html)(NJU, my PhD advisor), [Chuanyi Li](http://lichuanyi.site/)(NJU, my enlightment advisor), Prof. [Vincent Ng](https://www.hlt.utdallas.edu/~vince/)(UTD, my enlightment advisor), [Jidong Ge][https://gjdnju.github.io/](NJU, my advisor).
+- Prof. [Bin Luo](https://software.nju.edu.cn//luobin/index.html)(NJU, my PhD advisor), [Chuanyi Li](http://lichuanyi.site/)(NJU, my enlightment advisor), Prof. [Vincent Ng](https://www.hlt.utdallas.edu/~vince/)(UTD, my enlightment advisor), [Jidong Ge](https://gjdnju.github.io/)(NJU, my advisor).
 - [Li Kong](http://ceai.njnu.edu.cn/user/?ID=73047)(NNU), Feifei Zhang(JMU), Shengjie Li(UTD).
