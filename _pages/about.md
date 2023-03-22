@@ -34,7 +34,7 @@ Our team is actively looking for self-motivated and energetic PhD, graduate and 
 - **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌.基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. (计算机学报)
 
 
-# Service
+# Services
 Reviewer: AI, TALLIP, ACL Rolling Review, AAAI
 
 # Miscellaneous
