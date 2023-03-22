@@ -25,13 +25,17 @@ My research interests include Natural Language Processing and Legal AI.
 Our team is actively looking for self-motivated and energetic PhD, graduate and undergraduate students. If you are interested in NLP or SE, feel free to contact me (fy@nju.edu.cn). [Team Homepage](http://liplab.site/).
 
 # Publications 
+Conference
 -  **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction via Event Extraction with Constraints. (ACL 2022)
 - **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction: A Survey of the State of the Art. (IJCAI 2022)
-- **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo, Vincent Ng. Recommending Statutes: A Portable Method Based on Neural Networks. (TKDD)
-- **Yi Feng**, Ting Wang, Chuanyi Li, Vincent Ng, Jidong Ge, Bin Luo, Yucheng Hu, Xiaopeng Zhang. Don't Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting. (EMNLP Findings 2022)
-- Li Kong, Chuanyi Li, Jidong Ge, Feifei Zhang, **Yi Feng**, Zhongjin Li, Bin Luo. Leveraging multiple features for document sentiment classification.  (Information Sciences)
+- **Yi Feng**, Ting Wang, Chuanyi Li, Vincent Ng, Jidong Ge, Bin Luo, Yucheng Hu, Xiaopeng Zhang. Don't Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting. (EMNLP Findings 2021)
 - **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo. Improving Statute Prediction via Mining Correlations between Statutes.(ACML 2019)
-- **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌.基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. (计算机学报)
+
+Journal
+- **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo, Vincent Ng. Recommending Statutes: A Portable Method Based on Neural Networks. (TKDD 2021)
+- **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌.基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. (计算机学报 2021)
+- Li Kong, Chuanyi Li, Jidong Ge, Feifei Zhang, **Yi Feng**, Zhongjin Li, Bin Luo. Leveraging multiple features for document sentiment classification.  (Information Sciences 2020)
+
 
 
 # Services
