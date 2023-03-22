@@ -25,13 +25,13 @@ My research interests include Natural Language Processing and Legal AI.
 Our team is actively looking for PhD, master, and undergraduate students with strong interests in NLP or SE. If you are interested, feel free to contact me. [Team Homepage](http://liplab.site/).
 
 # Publications 
-- Legal Judgment Prediction via Event Extraction with Constraints. **Yi Feng**, Chuanyi Li, Vincent Ng. (ACL 2022)
-- Legal Judgment Prediction: A Survey of the State of the Art. **Yi Feng**, Chuanyi Li, Vincent Ng. (IJCAI 2022)
-- Recommending Statutes: A Portable Method Based on Neural Networks. **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo, Vincent Ng. (TKDD)
-- Don't Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting. **Yi Feng**, Ting Wang, Chuanyi Li, Vincent Ng, Jidong Ge, Bin Luo, Yucheng Hu, Xiaopeng Zhang. (EMNLP Findings 2022)
-- Leveraging multiple features for document sentiment classification. Li Kong, Chuanyi Li, Jidong Ge, Feifei Zhang, **Yi Feng**, Zhongjin Li, Bin Luo. (Information Sciences)
-- Improving Statute Prediction via Mining Correlations between Statutes. **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo. (ACML 2019)
-- 基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌. (计算机学报)
+-  **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction via Event Extraction with Constraints. (ACL 2022)
+- **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction: A Survey of the State of the Art. (IJCAI 2022)
+- **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo, Vincent Ng. Recommending Statutes: A Portable Method Based on Neural Networks. (TKDD)
+- **Yi Feng**, Ting Wang, Chuanyi Li, Vincent Ng, Jidong Ge, Bin Luo, Yucheng Hu, Xiaopeng Zhang. Don't Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting. (EMNLP Findings 2022)
+- Li Kong, Chuanyi Li, Jidong Ge, Feifei Zhang, **Yi Feng**, Zhongjin Li, Bin Luo. Leveraging multiple features for document sentiment classification.  (Information Sciences)
+- **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo. Improving Statute Prediction via Mining Correlations between Statutes.(ACML 2019)
+- **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌.基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. (计算机学报)
 
 
 # Service
