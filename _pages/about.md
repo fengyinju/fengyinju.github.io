@@ -22,7 +22,7 @@ redirect_from:
 Currently I am an Assistant Researcher in Software Institute at Nanjing University. Before joining Nanjing Univeristy in 2023, I received my Ph.D. degree in Software Engineering from Nanjing University in 2022, and B.Sc. Degree in Computer Science from Central South University in 2017.
 My research interests include Natural Language Processing and Legal AI.
 
-Our team is actively looking for PhD, master, and undergraduate students with strong interests in NLP or SE. If you are interested, feel free to contact me. [Team Homepage](http://liplab.site/).
+Our team is actively looking for self-motivated and energetic PhD, master, and undergraduate students. If you are interested in NLP or SE, feel free to contact me (fy@nju.edu.cn). [Team Homepage](http://liplab.site/).
 
 # Publications 
 -  **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction via Event Extraction with Constraints. (ACL 2022)
@@ -38,4 +38,6 @@ Our team is actively looking for PhD, master, and undergraduate students with st
 Reviewer: AI, TALLIP, ACL Rolling Review, AAAI
 
 # Miscellaneous
-
+My research collaborator:
+- Prof. [Bin Luo](https://software.nju.edu.cn//luobin/index.html)(NJU, my PhD advisor), [Chuanyi Li](http://lichuanyi.site/)(NJU, my enlightment advisor), Prof. [Vincent Ng](https://www.hlt.utdallas.edu/~vince/)(UTD, my enlightment advisor), [Jidong Ge][https://gjdnju.github.io/](NJU, my advisor).
+- [Li Kong](http://ceai.njnu.edu.cn/user/?ID=73047)(NNU), Feifei Zhang(JMU), Shengjie Li(UTD).
