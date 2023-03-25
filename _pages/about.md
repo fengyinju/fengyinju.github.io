@@ -22,7 +22,7 @@ redirect_from:
 Currently I am an Assistant Researcher in Software Institute at Nanjing University. Before joining Nanjing Univeristy in 2023, I received my Ph.D. degree in Software Engineering from Nanjing University in 2022, and B.Sc. Degree in Computer Science from Central South University in 2017.
 My research interests include Natural Language Processing and Legal AI.
 
-Our team is actively looking for self-motivated and energetic PhD, graduate and undergraduate students. If you are interested in NLP or SE, feel free to contact me (fy@nju.edu.cn). [Team Homepage](http://liplab.site/).
+Our team is actively looking for self-motivated and energetic PhD, master's and undergraduate students. If you are interested in NLP or SE, feel free to contact me (fy@nju.edu.cn). [Team Homepage](http://liplab.site/).
 
 # Publications 
 Conference
