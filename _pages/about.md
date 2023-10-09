@@ -24,7 +24,7 @@ My research interests include Natural Language Processing and AI for Law.
 
 Our team is actively looking for self-motivated and energetic PhD, master's and undergraduate students. If you are interested in NLP or SE, feel free to contact me (fy@nju.edu.cn). [Team Homepage](http://liplab.site/).
 
-# Publications 
+# Selected Publications 
 Conference
 -  **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction via Event Extraction with Constraints. (ACL 2022)
 - **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction: A Survey of the State of the Art. (IJCAI 2022)
@@ -39,7 +39,7 @@ Journal
 
 
 # Services
-Reviewer: AI, TALLIP, ACL Rolling Review, AAAI
+Reviewer: AI, TALLIP, ACL Rolling Review, AAAI, EMNLP
 
 # Miscellaneous
 My research collaborator:
