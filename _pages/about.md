@@ -26,7 +26,7 @@ Our team is actively looking for self-motivated and energetic PhD, master's and 
 
 # Selected Publications 
 Conference
-- **<font color="red">[CCF-A]</font>** **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction via Event Extraction with Constraints. (ACL 2022)
+- <font color="#FF0000">**[CCF-A]**</font> **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction via Event Extraction with Constraints. (ACL 2022)
 - **[CCF-A]** **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction: A Survey of the State of the Art. (IJCAI 2022)
 - **[CCF-B]** **Yi Feng**, Ting Wang, Chuanyi Li, Vincent Ng, Jidong Ge, Bin Luo, Yucheng Hu, Xiaopeng Zhang. Don't Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting. (EMNLP Findings 2021)
 - **[CCF-C]** **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo. Improving Statute Prediction via Mining Correlations between Statutes.(ACML 2019)
