@@ -33,7 +33,7 @@ Conference
 
 Journal
 - <font color="#0000FF">**[CCF-B]**</font> **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo, Vincent Ng. Recommending Statutes: A Portable Method Based on Neural Networks. (TKDD 2021)
-- <font color="#FF0000">**[CCF-A]**</font> **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌.基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. (计算机学报 2021)
+- **<font color="#FF0000">[CCF-A]</font>** **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌.基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. (计算机学报 2021)
 - <font color="#0000FF">**[CCF-B]**</font> Li Kong, Chuanyi Li, Jidong Ge, Feifei Zhang, **Yi Feng**, Zhongjin Li, Bin Luo. Leveraging multiple features for document sentiment classification.  (Information Sciences 2020)
 
 
