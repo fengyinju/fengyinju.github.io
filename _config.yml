@@ -12,7 +12,7 @@ description              : "Assistant Researcher, Nanjing University "
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "2ZeZrKAAAAAJ" # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
