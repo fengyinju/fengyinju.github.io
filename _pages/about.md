@@ -39,11 +39,14 @@ Journal
 - **<font color="#FF0000">[CCF-A]</font>** **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌.基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. (计算机学报 2021)
 - **<font color="#0000FF">[CCF-B]</font>** Li Kong, Chuanyi Li, Jidong Ge, Feifei Zhang, **Yi Feng**, Zhongjin Li, Bin Luo. Leveraging multiple features for document sentiment classification. Information Sciences 518: 39-55, 2020.
 
-
-
 # Academic Services
 Editorial board member: AIJ, TALLIP
 PC Member: ACL, IJCAI, AAAI, EMNLP, NLPCC
+
+# Funding
+1.	NSFC Youth Fund, 62406139, Research on Trustworthy Legal Judgment Prediction Based on Domain Knowledge Injection, Jan 2025 to Dec 2027, 300,000 RMB, Principal Investigator.
+2.	Key Laboratory General Innovation Project, ZZKT2024B02, Detection of Multimodal Advertising Persuasion Techniques and Argument Generation, Jun 2024 to May 2025, 30,000 RMB, Principal Investigator.
+3.	Key Laboratory Overseas Project, KFKT2024A07, Research on User Behavior Intent Recognition in the Context of Continuous Interest Update, June 2024 to May 2026, 40,000 RMB, Principal Investigator.
 
 # Miscellaneous
 My research collaborator:
