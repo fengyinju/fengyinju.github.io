@@ -26,20 +26,24 @@ Our team is actively looking for self-motivated and energetic PhD, master's and 
 
 # Selected Publications 
 Conference
-- **<font color="#FF0000">[CCF-A]</font>** **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction via Event Extraction with Constraints. (ACL 2022)
-- **<font color="#FF0000">[CCF-A]</font>** **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction: A Survey of the State of the Art. (IJCAI 2022)
-- **<font color="#0000FF">[CCF-B]</font>** **Yi Feng**, Ting Wang, Chuanyi Li, Vincent Ng, Jidong Ge, Bin Luo, Yucheng Hu, Xiaopeng Zhang. Don't Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting. (EMNLP Findings 2021)
-- **<font color="#FFAA00">[CCF-C]</font>** **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo. Improving Statute Prediction via Mining Correlations between Statutes.(ACML 2019)
-
+- **<font color="#FF0000">[CCF-A]</font>** **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Case Retrieval: A Survey of the State of the Art. ACL 2024: 6472-6485.
+- **<font color="#FF0000">[CCF-A]</font>** Wanhong Huang, **Yi Feng**, Chuanyi Li, Honghan Wu, Jidong Ge, Vincent Ng. CMDL: A Large-Scale Chinese Multi-Defendant Legal Judgment Prediction Dataset. ACL (Findings) 2024: 5895-5906.
+- **<font color="#FF0000">[CCF-A]</font>** Yuan Zhang, Wanhong Huang, **Yi Feng**, Chuanyi Li, Zhiwei Fei, Jidong Ge, Bin Luo, Vincent Ng. LJPCheck: Functional Tests for Legal Judgment Prediction. ACL (Findings) 2024: 5878-5894.
+- **<font color="#FF0000">[CCF-A]</font>** **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction via Event Extraction with Constraints. ACL 2022: 648-664.
+- **<font color="#FF0000">[CCF-A]</font>** **Yi Feng**, Chuanyi Li, Vincent Ng. Legal Judgment Prediction: A Survey of the State of the Art. IJCAI 2022: 5461-5469.
+- **<font color="#0000FF">[CCF-B]</font>** **Yi Feng**, Ting Wang, Chuanyi Li, Vincent Ng, Jidong Ge, Bin Luo, Yucheng Hu, Xiaopeng Zhang. Don't Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting. EMNLP (Findings) 2021: 1493-1503.
+- **<font color="#FFAA00">[CCF-C]</font>** **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo. Improving Statute Prediction via Mining Correlations between Statutes. ACML 2019: 710-725.
+  
 Journal
-- **<font color="#0000FF">[CCF-B]</font>** **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo, Vincent Ng. Recommending Statutes: A Portable Method Based on Neural Networks. (TKDD 2021)
+- **<font color="#0000FF">[CCF-B]</font>** **Yi Feng**, Chuanyi Li, Jidong Ge, Bin Luo, Vincent Ng. Recommending Statutes: A Portable Method Based on Neural Networks. ACM Transactions on Knowledge Discovery from Data 15(2): 16:1-16:22, 2021.
 - **<font color="#FF0000">[CCF-A]</font>** **冯奕**, 周晓松, 李传艺, 王挺, 葛季栋, 胡雨成, 张小鹏, 骆斌.基于多模态特征融合嵌入的相似广告检索方法基于多模态特征融合嵌入的相似广告检索方法. (计算机学报 2021)
-- **<font color="#0000FF">[CCF-B]</font>** Li Kong, Chuanyi Li, Jidong Ge, Feifei Zhang, **Yi Feng**, Zhongjin Li, Bin Luo. Leveraging multiple features for document sentiment classification.  (Information Sciences 2020)
+- **<font color="#0000FF">[CCF-B]</font>** Li Kong, Chuanyi Li, Jidong Ge, Feifei Zhang, **Yi Feng**, Zhongjin Li, Bin Luo. Leveraging multiple features for document sentiment classification. Information Sciences 518: 39-55, 2020.
 
 
 
 # Academic Services
-PC Member: ACL Rolling Review, IJCAI, AAAI, EMNLP, AI, TALLIP
+Editorial board member: AIJ, TALLIP
+PC Member: ACL, IJCAI, AAAI, EMNLP, NLPCC
 
 # Miscellaneous
 My research collaborator:
